@@ -25,5 +25,6 @@
 #include "sensors/F_AK09918.hpp"
 #include "sensors/F_IMU_Generic.hpp"
 #include "sensors/F_IMU_Hybrid.hpp"
+#include "sensors/F-ICM40609.hpp"
 
 #endif /* _FastIMU_H_ */

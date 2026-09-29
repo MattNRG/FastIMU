@@ -19,6 +19,10 @@
 * LSM6DSL (currently untested)
 * QMI8658
 
+### WIP:
+* ICM-40609-D
+    
+
 ### Supported Magnetometers:
 * QMC5883L
 * HMC5883L
